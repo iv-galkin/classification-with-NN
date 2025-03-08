@@ -58,5 +58,4 @@
 
 Для работы с проектом потребуется установленный Python 3.x и следующие библиотеки:
 
-`bash
-pip install numpy matplotlib seaborn scikit-learn torch torchvision cv2
+`pip install numpy matplotlib seaborn scikit-learn torch torchvision cv2`
